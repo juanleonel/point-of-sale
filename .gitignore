@@ -1,0 +1,8 @@
+*.suo
+*.user
+_ReSharper.*
+Point-Sale.DataAccess/bin
+Point-Sale.DataAccess/obj
+Point-Sale.UI/bin
+Point-Sale.UI/obj
+packages
