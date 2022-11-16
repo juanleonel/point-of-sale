@@ -1,0 +1,11 @@
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\Point-Sale.DataAccess.dll
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\Point-Sale.DataAccess.pdb
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\Dapper.dll
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\Dapper.xml
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\obj\Debug\Point-Sale.DataAccess.csproj.AssemblyReference.cache
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\obj\Debug\Point-Sale.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\obj\Debug\Point-Sale.DataAccess.csproj.CopyComplete
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\obj\Debug\Point-Sale.DataAccess.dll
+C:\Users\JuanL\source\repos\Point-Sale\Point-Sale.DataAccess\obj\Debug\Point-Sale.DataAccess.pdb
